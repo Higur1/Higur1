@@ -3,7 +3,7 @@
 - 📚 I'm student of System Analysis and Development at FATEC-ZL.
 - 🌱 I’m currently learning JavaScript/TypeScript
 
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-hungria-1ba47a234/) 
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-hungria-1ba47a234/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohigor.hungria466@gmail.com)
  ##
 <div style="color: orange;"><font size="3"> 🚀 Skills:</font></div>
 
